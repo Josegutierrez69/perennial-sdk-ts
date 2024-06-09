@@ -7,7 +7,7 @@
   "author": "SAM CLI",
   "license": "MIT",
   "dependencies": {
-    "axios": ">=0.21.1",
+    "axios": ">=1.6.8",
     "perennial-sdk-ts": "^0.1.5",
     "viem": "^1.14.0"
   },
