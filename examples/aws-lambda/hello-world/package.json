@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": ">=0.21.1",
     "perennial-sdk-ts": "^0.1.5",
-    "viem": "^1.14.0"
+    "viem": "^2.15.1"
   },
   "scripts": {
     "test": "mocha tests/unit/"
